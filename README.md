@@ -9,4 +9,6 @@ $ pkg install git
 $ rm -rf P-Check
 $ git clone https://github.com/HKROKY909/P-Check
 $ cd P-Check
-$ python 
+$ python mosiur-p.py
+
+# Thanks All(💝)
